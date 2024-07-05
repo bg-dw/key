@@ -1,10 +1,1 @@
-[{
-  "name" : "Alpha",
-  "status" : true,
-  "value" : 87
-},
- {
-  "name" : "Bravo",
-  "status" : false,
-  "value" : 54
- }]
+[{"name" : "Alpha",status" : true,"value" : 87}]
