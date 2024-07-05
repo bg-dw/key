@@ -1,3 +1,4 @@
+[
  {
   "name" : "Alpha",
   "status" : true,
@@ -7,14 +8,5 @@
   "name" : "Bravo",
   "status" : false,
   "value" : 54
- },
- {
-  "name" : "Charlie",
-  "status" : true,
-  "value" : 65
- },
- {
-  "name" : "Delta",
-  "status" : true,
-  "value" : 37
  }
+]
