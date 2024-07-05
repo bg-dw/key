@@ -2,4 +2,9 @@
 "client":"Palangkaraya",
  "hash":"Contoh",
 "key":"1234567"
+},
+ {
+"client":"Bales",
+ "hash":"Contoh2",
+"key":"aa"
 }
