@@ -1,6 +1,22 @@
-{ 
- "key_code":[
- "001":{"client":"SEMAMBUNG4","hash":"Contoh1","key":"aaa"},
- "002":{"client":"CONTOH","hash":"Conto2h","key":"1234567"},
- ]
-}
+[
+ {
+  "name" : "Alpha",
+  "status" : true,
+  "value" : 87
+},
+ {
+  "name" : "Bravo",
+  "status" : false,
+  "value" : 54
+ },
+ {
+  "name" : "Charlie",
+  "status" : true,
+  "value" : 65
+ },
+ {
+  "name" : "Delta",
+  "status" : true,
+  "value" : 37
+ }
+]
