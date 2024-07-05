@@ -1,4 +1,6 @@
-{ "key_code":{
+{ 
+ "key_code":{
  "001":{"client":"SEMAMBUNG4","hash":"Contoh1","key":"aaa"},
  "002":{"client":"CONTOH","hash":"Conto2h","key":"1234567"},
+ }
 }
